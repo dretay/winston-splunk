@@ -16,6 +16,9 @@
     "winston",
     "splunk"
   ],
+  "dependencies":{
+    "node-syslog": "1.2.x"
+  },
   "devDependencies": {
     "winston": "0.4.x",
     "vows": "0.5.x"
